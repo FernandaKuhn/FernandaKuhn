@@ -7,8 +7,9 @@
 
 ![aa](https://i0.wp.com/media3.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandakuhn&hide_progress=true&theme=synthwave)
 ![Kuhn GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandakuhn&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandakuhn&hide_progress=true&theme=synthwave)
+
 <!--
 **FernandaKuhn/FernandaKuhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
