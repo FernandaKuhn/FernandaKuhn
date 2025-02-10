@@ -5,8 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,react,git,bootstrap,figma,mongodb,nextjs,nodejs)](https://skillicons.dev)
 
-![aa](https://i0.wp.com/media3.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
-
 
 
 <!--
